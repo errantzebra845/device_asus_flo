@@ -1,0 +1,22 @@
+[
+ {
+   "repository":  "CandyKat/proprietary_vendor_asus",
+   "target_path": "vendor/asus",
+   "branch":      "ck44"
+ },
+ {
+   "repository":  "CandyKat/proprietary_vendor_broadcom",
+   "target_path": "vendor/broadcom",
+   "branch":      "ck44"
+ },
+ {
+   "repository":  "CandyKat/proprietary_vendor_qcom",
+   "target_path": "vendor/qcom",
+   "branch":      "ck44"
+ },
+ {
+   "repository":  "CandyKat/kernel_asus_flo",
+   "target_path": "kernel/asus/flo",
+   "branch":      "ck44"
+ }
+]
