@@ -1,5 +1,20 @@
 [
  {
+   "repository":  "errantzebra845/vendor_asus",
+   "target_path": "vendor/asus",
+   "branch":      "ck44"
+ },
+ {
+   "repository":  "errantzebra845/vendor_broadcom",
+   "target_path": "vendor/broadcom",
+   "branch":      "ck44"
+ },
+ {
+   "repository":  "errantzebra845/vendor_qcom",
+   "target_path": "vendor/qcom",
+   "branch":      "ck44"
+ },
+ {
    "repository":  "SlimRoms/kernel_asus_flo",
    "target_path": "kernel/asus/flo",
    "branch":      "kk4.4"
